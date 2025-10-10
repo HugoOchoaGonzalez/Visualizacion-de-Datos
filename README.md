@@ -1,2 +1,2 @@
-# Visualizaci-n-de-Datos
+# Visualizacion-Datos
 Visualización de Datos
